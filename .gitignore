@@ -1,0 +1,28 @@
+# Created by .gitignore support plugin (hsz.mobi)
+
+# IDE working files
+*.iws
+*.ipr
+*.iml
+.idea/
+.settings/
+.project
+.classpath
+.checkstyle
+
+
+# Build directories
+target/
+out/
+
+# Build and test files
+*.log*
+*.lck
+
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+/bin
+
