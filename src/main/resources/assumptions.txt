@@ -1,6 +1,6 @@
 Assumptions
 =========================
-
+Maze is always a square
 
 
 
